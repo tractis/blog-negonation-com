@@ -102,7 +102,7 @@ div#header-content ul#ulnav2 {
 
 div#header-content ul#ulnav li, div#header-content ul#ulnav2 li {
   float: left;
-  margin: 0; 
+  margin: 0;
   padding: 0;
   display: inline;
   list-style: none;
@@ -360,7 +360,7 @@ table.listados td {
   padding: 10px 10px 10px 0px;
   font: .7em/1.6em "Lucida Grande","Trebuchet MS", Arial, sans-serif;
   background: url(/es/wp-content/themes/minid/images/dot_line.png) repeat-x bottom;
-  vertical-align: top;		
+  vertical-align: top;
 }
 
 .ref {
@@ -467,6 +467,7 @@ div.principal ul li ul li, div.extra ul li ul li {
 div.search {
   margin: 0 0 25px 0;
   padding: 15px 0;
+  display: none;
 }
 
 div.search label {
@@ -862,7 +863,7 @@ div.comment-head {
   border-left: 1px solid #333;
   border-right: 1px solid #333;
   background: #333 url(http://blog.negonation.com/es/wp-content/themes/minid/images/msg-comment.png) bottom left no-repeat;
-  padding-bottom: 10px; 
+  padding-bottom: 10px;
   clear: both;
   color: #666;
 }

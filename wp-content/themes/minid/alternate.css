@@ -1,4 +1,4 @@
-/*  
+/*
 Theme Name: I HAEV STYEL
 Theme URI: http://minid.net/
 Description: Default theme for Minid.net.
@@ -12,8 +12,8 @@ Author URI: http://minid.net/
 
 	The CSS, XHTML and design is released under Attribution 2.5:
 	http://creativecommons.org/licenses/by/2.5/legalcode
-	
-	
+
+
 */
 
 
@@ -51,8 +51,8 @@ div.clear {
 div#header-content {
 			border-bottom: 1px solid #555;
 		}
-	
-	
+
+
 			div#header-content p {
 				font-size: .7em;
 				margin: 0;
@@ -62,27 +62,27 @@ div#header-content {
 				float: right;
 				white-space: nowrap;
 				}
-				
-				
+
+
 				/* defines the link nature on the right side of the header */
 
 				div#header-content p a {
 					text-decoration: none;
 					text-align: right;
 					}
-					
-					
-					
+
+
+
 				/* define the tabs of the main nav */
-				
+
 				div#header-content {
 					margin: 0 auto;
 					padding: 0 40px 0 35px;
                                         border-bottom: 1px solid #5D5D5D;
                                         background:#555;
 					}
-					
-					
+
+
 					div#header-content ul#ulnav {
 						width: 57%;
 						float: left;
@@ -99,18 +99,18 @@ div#header-content ul#ulnav2 {
 						padding: 5px 0 0 0;
 						}
 
-						
+
 					div#header-content ul#ulnav li, div#header-content ul#ulnav2 li {
 						float: left;
-						margin: 0; 
+						margin: 0;
 						padding: 0;
 						display: inline;
 						list-style: none;
 						}
-						
-						
+
+
 						/* defines the nature of the link on main nav */
-						
+
 						div#header-content ul#ulnav li a, div#header-content ul#ulnav2 li a {
 							float: left;
 							line-height: 20px;
@@ -118,7 +118,7 @@ div#header-content ul#ulnav2 {
 							margin: 0 1px 0 1px;
 							padding: 2px 5px;
 						}
-						
+
 						div#header-content ul#ulnav li a.selected, div#header-content ul#ulnav2 li a.selected {
 							float: left;
 							line-height: 20px;
@@ -131,61 +131,61 @@ div#header-content ul#ulnav2 {
 
 
 /* HEADER OF THE APPLICATION */
-		
+
 		div#header-content {
 			background: #555;
 			border-bottom-color: #5d5d5d;
 		}
-		
+
 		div#header-content p {
 			color: #ccc;
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
+
+
+
+
 		/* login off and settings links on the header */
-		
-		
+
+
 		div#header-content p a:link, div#header-content p a:visited, div#header-content p a:active {
 			color: #cf0;
 		}
-		
+
 		div#header-content p a:hover {
 			color: #fff;
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
+
+
+
 		/* main nav links */
-		
+
 		div#header-content ul#ulnav li a:link, div#header-content ul#ulnav2 li a:link, div#header-content ul#ulnav li a:visited, div#header-content ul#ulnav2 li a:visited {
 			border-bottom: 2px solid #555;
 			color: #999;
 			}
-			
+
 			div#header-content ul#ulnav li a:hover, div#header-content ul#ulnav2 li a:hover {
 			        border-bottom: 2px solid #cf0;
 				color: #fff;
 				}
-				
+
 	    div#header-content ul#ulnav li a.selected, div#header-content ul#ulnav2 li a.selected {
 			border-bottom: 2px solid #cf0;
 			color: #fff;
 		}
-				
+
 		div#header-content ul#ulnav li a.selected:link, div#header-content ul#ulnav2 li a.selected:link, div#header-content ul#ulnav li a.selected:visited, div#header-content ul#ulnav2 li a.selected:visited, div#header-content ul#ulnav li a:hover, div#header-content ul#ulnav li a.selected:hover {
 				border-bottom: 2px solid #cf0;
 				color: #fff;
@@ -262,13 +262,13 @@ float: right;
 					float: right;
 					width: 470px;
 					padding: 15px 0px 30px 0px;
-		
+
 				}
 
 
 				div.post {
 					padding-bottom: 7em;
-			
+
 				}
 
 				div.post h2 {
@@ -276,7 +276,7 @@ float: right;
 					margin: 0 !important;
 					color: #fff;
 				}
-				
+
 								div.post h3, div.post h4, div.post h5 {
 									color: #fff; /* this one adds colors to all <h*> in the post body */
 									font-weight: bold;
@@ -346,7 +346,7 @@ font-style: normal;
 										font: 11px/1.6em "Trebuchet MS", Arial, sans-serif;
 										color: #333;
 										}
-										
+
 										div.comment-body ol li a, div.comment-body ul li a {
 											color: #000 !important;
 											border-bottom: 1px solid #000 !important;
@@ -370,7 +370,7 @@ font-style: italic !important;
 							padding: 10px 10px 10px 0px;
 							font: .7em/1.6em "Lucida Grande","Trebuchet MS", Arial, sans-serif;
 							background: url(/es/wp-content/themes/minid/images/dot_line.png) repeat-x bottom;
-							vertical-align: top;		
+							vertical-align: top;
 						}
 
 						.ref {
@@ -393,7 +393,7 @@ font-style: italic !important;
 
 
 
-	
+
 
 					/* ---- IMAGE SET ---- */
 
@@ -434,7 +434,7 @@ font-style: italic !important;
 							}
 
 
-						
+
 
 					div.principal h3, div.extra h3 {
 						font: bold .8em/1.6em "Lucida Grande", Arial, sans-serif;
@@ -470,13 +470,14 @@ font-style: italic !important;
 												font-size: 1em;
 											}
 
-		
+
 
 			/* ---- SERACH ---- */
 
 			div.search {
 				margin: 0 0 25px 0;
 				padding: 15px 0;
+        display: none;
 			}
 
 			div.search label {
@@ -499,15 +500,15 @@ font-style: italic !important;
 											margin: 0;
 										}
 
-										
-							
-							
+
+
+
 										div.autor p {
 											font: .7em/1.6em "Lucida Grande", "Trebuchet MS", Arial, sans-serif;
 											color: #ccc;
 
 										}
-							
+
 
 					div.tools {
 						padding: 0px 0px 15px 0px;
@@ -533,7 +534,7 @@ font-style: italic !important;
 									color: #fff;
 									margin: 0 0 0 0;
 								}
-					
+
 
 					/* ---- enlaces ---- */
 
@@ -541,22 +542,22 @@ font-style: italic !important;
 							text-decoration: none;
 						}
 
-					
+
 						div#content a:link,  div.tools a:link, div#menus a:link, div#footer a:link {
 						        	  color: #D9FA56;
 										}
-						
-						
+
+
 						div#content a:visited, div.tools a:link, div#menus a:visited, div#footer a:visited {
 						        	color: #D9FA56;
 										}
-						
-						
+
+
 						div#content a:active, div.tools a:active, div#menus a:active, div#footer a:active {
 						        color: #D9FA56;
 										}
-						
-						
+
+
 						div#content a:hover, div.tools a:hover, div#menus a:hover, div#footer a:hover {
 						        		color: #000;
 										background: #D9FA56;
@@ -565,7 +566,7 @@ font-style: italic !important;
 
 
 
-										
+
 
 
 							/* ---- COMMENTS ---- */
@@ -602,7 +603,7 @@ color: #666 !important;
 							margin: 0px 0 0 0px !important;
 							color: #ccc;
 						}
-						
+
 							div.comment-head p cite {
 								color: #ccc;
 							}
@@ -627,12 +628,12 @@ div.Lafuente, div.Blanco, div.Santos {
 							border-right: 1px solid #9EB872;
 							margin-bottom: 20px;
 }
-						
+
 							div.comment-body p {
 								font: .7em/1.4em "Lucida Grande", Arial, sans-serif !important;
 								color: #eee !important;
 							}
-							
+
 								div.mini-d p, div.Blanco p, div.Santos p, div.Lafuente p {
 									color: #333 !important;
 								}
@@ -643,9 +644,9 @@ color: #5F7736 !important;
 									div.mini-d blockquote, div.Blanco blockquote, div.Santos blockquote, div.Lafuente blockquote, div.Diego blockquote div.comment-body blockquote {
 												padding: 5px 10px 5px 10px;
 												-moz-border-radius: .5em;
-												
+
 												}
-												
+
 									div.comment-body blockquote {
 										background: #999;
 										border-top: 1px solid #fff;
@@ -653,7 +654,7 @@ color: #5F7736 !important;
 												border-bottom: 1px solid #ddd;
 												border-right: 1px solid #ddd;
 										}
-										
+
 									div.mini-d blockquote, div.Blanco blockquote, div.Santos blockquote, div.Lafuente blockquote,  div.Diego blockquote {
 										background: #FFFFF5 !important;
 										border-top: 1px solid #fff;
@@ -661,11 +662,11 @@ color: #5F7736 !important;
 										border-bottom: 1px solid #F2F2BA;
 										border-right: 1px solid #F2F2BA;
 										}
-										
-										
 
 
-						
+
+
+
 
 
 																div.modera {
@@ -813,7 +814,7 @@ color: #5F7736 !important;
 														color: #666;
 														text-align: center;
 													}
-													
+
 													 div.Blanco {
 							background: #BCE27F !important;
 							border-bottom: 1px solid #6D8745;
@@ -837,7 +838,7 @@ color: #5F7736 !important;
 							line-height: 1.5em;
 							margin-left: 25px;
 							}
-							
+
 						code {
 							color: #681;
 							font: 1.1em "andale mono", "lucida console", "courier new", monospace
@@ -860,9 +861,9 @@ color: #5F7736 !important;
 											font: .8em/1.6em "Trebuchet MS", Arial, sans-serif;
 											color: #555;
 										}
-										
+
 										/* inputs */
-										
+
 										div#comment-super {
 											background: #BCE27F;
 											padding: 15px;
@@ -909,17 +910,17 @@ color: #5F7736 !important;
 											width: 45%;
 											text-align: right;
 										}
-										
-										
+
+
 						/* ---- COMPARE ---- */
-						
+
 						table.compare {
 							width: 99%;
 							border: 1px solid #999;
 							margin: 2.5em 0em 2.5em 0em;
-							
+
 							}
-							
+
 						table.compare thead tr th {
 							background: #FFC;
 							padding: 5px 10px;
@@ -928,7 +929,7 @@ color: #5F7736 !important;
 							border-bottom: 1px dotted #999;
 							color: #222;
 							}
-							
+
 						table.compare tbody tr td {
 							padding: 8px 10px;
 							text-align: left;
@@ -936,7 +937,7 @@ color: #5F7736 !important;
 							border-bottom: 1px dotted #ccc;
 							vertical-align: top;
 							}
-							
+
 						table.compare tbody tr th {
 							padding: 8px 10px;
 							text-align: left;
@@ -947,7 +948,7 @@ color: #5F7736 !important;
 							background: #fffffa;
 							vertical-align: top;
 							}
-							
+
 						table.compare tfoot tr td {
 							padding: 8px 10px;
 							text-align: right;
@@ -971,4 +972,3 @@ color: #5F7736 !important;
 sup {
   color: #f90;
 }
-
